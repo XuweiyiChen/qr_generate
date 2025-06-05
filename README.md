@@ -21,7 +21,7 @@ pip install qrcode pillow
 Run the script:
 
 ```bash
-python qr_code_generator.py
+python qr_generator.py
 ```
 
 Enter a website link when prompted, and the QR code will be saved as `qrcode.png`.
